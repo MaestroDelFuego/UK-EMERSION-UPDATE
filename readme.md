@@ -1,18 +1,13 @@
-**Bobbies on the beat just got an upgrade! :man_police_officer::woman_guard:**
- <br>
-:small_blue_diamond: **4 brand-new UK police vehicles added** – lights, sirens, and serious presence!
- <br>
-:small_blue_diamond: **Authentic UK traffic lights** – because nothing says realism like waiting patiently at a red light in the rain :umbrella::vertical_traffic_light:
- <br>
-
-Full Credit for models + the majority of the textures goes to: Jacobmaate
- <br>
-Check them out their work is awsome 
- <br>
-https://www.gta5-mods.com/vehicles/fib-police
-
-
-
-Whether you're upholding the law or just trying to beat it, things just got a whole lot more British. :flag_gb::punch:
- <br>
-Grab your tea, mind the gap, and dive in!
+@everyone
+🚨 **Bobbies on the beat just got an upgrade!** 👮‍♂️👮‍♀️
+<br>
+🔹 **4 brand-new UK police vehicles** added – flashing lights, blaring sirens, and an unmistakable British presence!
+🔹 **Authentic UK traffic lights** – because nothing says realism like waiting at a red in the pouring rain ☔🚦
+<br>
+🔧 **Massive shoutout** to Jacobmaate for the base models and most of the textures – their work is absolutely top-tier!
+👉 Check them out: FIB Police Vehicles – GTA5-Mods
+<br>
+This update was built using Jacobmaate’s template, then reworked with custom textures to give everything that unique UK feel.
+<br>
+🇬🇧 Whether you're upholding the law or trying to dodge it... things just got a whole lot more British.
+☕ Grab your tea, mind the gap, and dive in! 💥
