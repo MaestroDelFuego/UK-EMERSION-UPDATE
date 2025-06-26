@@ -15,3 +15,5 @@ This update was built using Jacobmaate’s template, then reworked with custom t
 🇬🇧 Whether you're upholding the law or trying to dodge it... things just got a whole lot more British.
 <br>
 ☕ Grab your tea, mind the gap, and dive in! 💥
+<br>
+**UNZIP THE FILES, GITHUB IS WEIRD ABOUT ROCKSTARS TEXTURE/MODELS**
