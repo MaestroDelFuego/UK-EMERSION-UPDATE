@@ -1,7 +1,7 @@
 
 Config = {}
 -- Discord webhook URL
-Config.Webhook = 'https://discord.com/api/webhooks/1383783390293000213/y0Ci-VPBiHO2Ob-uXWODm3-emOmPt2YuWUm0a7gamFCgogt-P7tqy3iwfe3QupEv4JuU'
+Config.Webhook = ''
 
 -- Jobs allowed to use emergency vehicles
 Config.AllowedJobs = {
